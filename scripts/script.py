@@ -1,5 +1,5 @@
 
-swears = ['fuck'] # List of swears and bad words
+swears = [] # List of swears and bad words
 
 # FUNCTIONAL 
 
